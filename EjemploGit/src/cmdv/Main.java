@@ -8,6 +8,11 @@ public class Main {
 	}
 	
 	public void saluda(){
+		// Modificación
 		System.out.println("Hola mundo!");
+	}
+	
+	public void nuevoMetodo(){
+		System.out.println("Soy un nuevo método");
 	}
 }
