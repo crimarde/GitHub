@@ -16,4 +16,8 @@ public class Main {
 		System.out.println("Soy un nuevo método");
 		System.out.println("Soy un nuevo método modificado en el repositorio    ");
 	}
+	
+	public void despide(){
+		System.out.println("Adios!!!");
+	}
 }
